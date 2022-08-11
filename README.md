@@ -1,4 +1,4 @@
-# Repositório destinado ao projeto fullStack com o Front-End e Back-End
+# Repositório destinado ao projeto fullStack
 
 Para acessar os repositórios separadamente acesse os links abaixo:
 
