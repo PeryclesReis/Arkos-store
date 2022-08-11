@@ -3,10 +3,10 @@
 Para acessar os repositórios separadamente acesse os links abaixo:
 
 #### Front-End:
- `https://github.com/PeryclesReis/front-end-project-fullstack.git`
+ `https://github.com/PeryclesReis/Arkos-front_end`
 
 #### Back-End:
- `ttps://github.com/PeryclesReis/Back-end-project-fullstack.git`
+ `https://github.com/PeryclesReis/Arkos-back_end`
 
 ## Desafio
 
