@@ -1,4 +1,4 @@
-# Repositório destinado ao projeto fullStack
+# Repositório destinado ao projeto fullStack chamado Arkos-Store
 
 Para acessar os repositórios separadamente acesse os links abaixo:
 
@@ -10,8 +10,12 @@ Para acessar os repositórios separadamente acesse os links abaixo:
 
 ## Desafio
 
-Construa um aplicativo web, onde será consumido informações de produtos alimentícios utilizando a `Fetch store Api => https://fakestoreapi.com/` e poderá ser haver um fluxo de usuários e produtos cadastrados em banco de dados e consumidos via API.
+Construir um aplicativo web, onde será consumido informações de produtos comuns utilizando a Api `Fake store api => https://fakestoreapi.com/` e será criado um fluxo de usuários e produtos cadastrados em banco de dados.
 
-A aplicação deverá ser desenvolvida utilizando ReactJS para o front-end e NodeJS para o back-end. Fique à vontade para utilizar frameworks e outras bibliotecas, caso desejar.
+A aplicação foi desenvolvida utilizando ReactJS para o front-end e NestJS para o back-end.
 
-Disclaimer: Caso não deseje desenvolver a API em NodeJS, poderá criar fluxos com dados mockados para simular essa utilização. Fique livre para nos surpreender adicionando algo no projeto.
+Plano Futuros para o projeto:
+
+- Criar teste unitário e de integração
+- Arrumar possíveis bugs
+- Implmentar a barra de busca que ainda não está funcionando
