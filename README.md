@@ -14,7 +14,7 @@ Construir um aplicativo web, onde será consumido informações de produtos comu
 
 A aplicação foi desenvolvida utilizando ReactJS para o front-end e NestJS para o back-end.
 
-Plano Futuros para o projeto:
+Planos futuros para o projeto:
 
 - Criar teste unitário e de integração
 - Arrumar possíveis bugs
