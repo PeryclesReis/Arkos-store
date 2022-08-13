@@ -19,3 +19,4 @@ Planos futuros para o projeto:
 - Criar teste unitário e de integração
 - Arrumar possíveis bugs
 - Implmentar a barra de busca que ainda não está funcionando
+- Criar menu para deslogar e botão para voltar a pagina inicial
